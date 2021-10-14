@@ -1,0 +1,11 @@
+ *{
+ 	color: darkblue;
+}
+html {
+	background-image: url("kaban.jpg");
+	background-size: 100%;
+}	
+h1 {
+	font-family: monospace;
+	font-size: 1000%;
+}
